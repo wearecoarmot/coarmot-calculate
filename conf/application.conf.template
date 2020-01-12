@@ -1,0 +1,8 @@
+play.filters.hosts {
+  allowed = ["."]
+}
+
+slack {
+  api = "https://slack.com/api"
+  token = ""
+}

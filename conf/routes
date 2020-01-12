@@ -1,0 +1,2 @@
+POST    /open                       controllers.InteractivityController.open
+POST    /calc                       controllers.InteractivityController.calc
