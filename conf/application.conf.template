@@ -1,8 +1,11 @@
 play.filters.hosts {
+  # set allowed hosts.
   allowed = ["."]
 }
 
 slack {
+  # set slack api uri
   api = "https://slack.com/api"
+  # set slack OAuth Access Token
   token = ""
 }
